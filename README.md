@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar]([https://jrodrygues.github.io/NLW-eSport/](https://jrodrygues.github.io/nlwEsport-II/))
+[🔗 Clique aqui para acessar](https://jrodrygues.github.io/nlwEsport-II/)
 
 
 ## 🛠 Tecnologias
